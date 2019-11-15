@@ -1,0 +1,5 @@
+{ 
+    "_id" : ObjectId("5a2962a040cca51220a6fc20"), 
+    "password" : "$2a$10$SkJ12yrBfSV4znlWTzPhGuWWwe4JVd723YenYMi59zPnzRvjT6H62", 
+    "__v" : NumberInt(0)
+}
